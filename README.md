@@ -2,15 +2,19 @@
 
 A new Flutter project.
 
-## Getting Started
+------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////
+----------------------------EKRAN RESİMLERİ-----------------------------
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/fb698cf5-e897-461a-8506-cf77593fe49d)
 
-A few resources to get you started if this is your first Flutter project:
+------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////
+![image](https://github.com/user-attachments/assets/a5228d8e-16e5-4270-ad23-214c96315984)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////
+![image](https://github.com/user-attachments/assets/e6ff2ef4-7c93-4fb7-893e-a9477d06fd35)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////
