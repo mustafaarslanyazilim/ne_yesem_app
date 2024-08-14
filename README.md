@@ -1,4 +1,4 @@
-# ne_yesem_app
+# NE YESEM UYGULAMASI
 
 A new Flutter project.
 
