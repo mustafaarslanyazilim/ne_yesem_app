@@ -11,6 +11,6 @@ A new Flutter project.
 ![image](https://github.com/user-attachments/assets/a5228d8e-16e5-4270-ad23-214c96315984)
 
 ------------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/e6ff2ef4-7c93-4fb7-893e-a9477d06fd35)
+![image](https://github.com/user-attachments/assets/61660d64-b894-4477-bb8d-0ca6bbda6312)
 
 ------------------------------------------------------------------------
